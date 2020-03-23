@@ -1,0 +1,5 @@
+﻿  Main.c
+F:\SCHOOL\Semester 2\Data Structures and Algorithms\Assignments\ICA 09\ICA 09\Main.c(14,2): warning C4091: 'typedef ': ignored on left of 'Person' when no variable is declared
+F:\SCHOOL\Semester 2\Data Structures and Algorithms\Assignments\ICA 09\ICA 09\Main.c(32,39): warning C4474: 'scanf_s' : too many arguments passed for format string
+F:\SCHOOL\Semester 2\Data Structures and Algorithms\Assignments\ICA 09\ICA 09\Main.c(32,39): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  ICA 09.vcxproj -> F:\SCHOOL\Semester 2\Data Structures and Algorithms\Assignments\ICA 09\ICA 09\Debug\ICA 09.exe
